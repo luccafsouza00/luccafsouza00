@@ -1,48 +1,49 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Hi there! I'm Lucca
 
-🎯 QA Pleno rumo ao Sênior | 💻 Automação | 🧠 IA & DevOps | 🌍 Buscando oportunidades remotas internacionais  
-📍 Brasil | Disponível para trabalho remoto global
+🎯 Mid-Level QA on the path to Senior | 💻 Automation | 🧠 AI & DevOps 
+📍 Based in Brazil 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seuusuario) 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@dominio.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario?tab=repositories)
-
----
-
-## 🧪 Sobre mim
-
-Sou Quality Assurance com ~4 anos de experiência, atuando com:
-
-- ✅ Testes manuais e automatizados (front-end, back-end e chatbots)
-- 🤖 Automação com **Cypress**, **Robot Framework** e **Postman**
-- 🧩 Integração com CI/CD em **Azure DevOps** e uso de **Docker**
-- 🧾 Validação de APIs, banco de dados (**SQL Server**, **Oracle**)
-- 💬 Testes e documentação de **chatbots via Blip (WhatsApp)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lucca-souza-212513207/) 
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luccafsouza00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luccafsouza00)
 
 ---
 
-## 🚀 Em constante evolução
+## 🧪 About Me
 
-📚 Estudando:
+I'm a QA professional with ~4 years of experience working in agile environments, currently focused on evolving to a Senior QA position. I have hands-on experience with:
 
-- Cypress Avançado | Robot Framework
-- Fundamentos de IA e uso prático para QA
-- Gerenciamento Ágil de Projetos e DevOps
-- GitHub Actions e Azure Pipelines
-
----
-
-## 🔥 Projetos em destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [🧔 SamuraiBS](https://github.com/seuusuario/samuraibs) | App para barbearias com testes E2E em Cypress |
-| [🛒 Retail Solutions MVP](https://github.com/seuusuario/retail-solutions) | Validação de solução para o varejo brasileiro |
-| [🌆 Respira São Paulo](https://github.com/seuusuario/respira-sao-paulo) | App Android voltado à segurança urbana |
+- ✅ Manual and automated testing (frontend, backend, chatbots)
+- 🤖 Test automation using **Cypress**, **Robot Framework**, and **Postman**
+- 🧩 CI/CD pipeline integration with **Azure DevOps**
+- 🧾 Validating APIs and databases (**SQL Server**, **Oracle**)
+- 💬 Chatbot validation (Blip platform) for **WhatsApp**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Currently Learning
+
+📚 I'm focused on improving my skills in:
+
+- Advanced Cypress automation and real-world project building  
+- Robot Framework for complex scenario testing  
+- Practical AI applications for QA  
+- Agile Project Management & DevOps practices  
+- GitHub Actions & Azure Pipelines
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🧔 SamuraiBS](https://github.com/luccafsouza00/samuraibs) | Barbershop app with Cypress E2E automation and DevOps practices |
+| [🛒 Retail Solutions MVP](https://github.com/luccafsouza00/retail-solutions) | MVP for retail businesses, validated through real user feedback |
+| [🌆 Respira São Paulo](https://github.com/luccafsouza00/respira-sao-paulo) | Android app focused on urban safety using public APIs |
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ![Skills](https://skillicons.dev/icons?i=git,github,azure,docker,kotlin,java,postman,cypress,robotframework,mysql,oracle,linux,selenium)
 
@@ -51,19 +52,16 @@ Sou Quality Assurance com ~4 anos de experiência, atuando com:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=luccafsouza00&show_icons=true&theme=tokyonight" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccafsouza00&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📱 QR Code para contato rápido
+## 📱 Quick Contact QR
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/seuusuario" alt="QR Code para LinkedIn">
-
----
-
-_“A qualidade não é um ato, é um hábito.” – Aristóteles_
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/lucca-souza-212513207/" alt="LinkedIn QR Code">
 
 ---
 
+_“Quality is not an act, it is a habit.” – Aristotle_
