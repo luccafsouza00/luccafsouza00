@@ -33,12 +33,6 @@ I'm a QA professional with ~4 years of experience working in agile environments,
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-![Skills](https://skillicons.dev/icons?i=git,github,azure,docker,java,postman,cypress,robotframework,mysql,selenium)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
