@@ -33,16 +33,6 @@ I'm a QA professional with ~4 years of experience working in agile environments,
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🧔 SamuraiBS](https://github.com/luccafsouza00/samuraibs) | Barbershop app with Cypress E2E automation and DevOps practices |
-| [🛒 Retail Solutions MVP](https://github.com/luccafsouza00/retail-solutions) | MVP for retail businesses, validated through real user feedback |
-| [🌆 Respira São Paulo](https://github.com/luccafsouza00/respira-sao-paulo) | Android app focused on urban safety using public APIs |
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ![Skills](https://skillicons.dev/icons?i=git,github,azure,docker,kotlin,java,postman,cypress,robotframework,mysql,oracle,linux,selenium)
@@ -55,12 +45,6 @@ I'm a QA professional with ~4 years of experience working in agile environments,
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=luccafsouza00&show_icons=true&theme=tokyonight" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccafsouza00&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 📱 Quick Contact QR
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/lucca-souza-212513207/" alt="LinkedIn QR Code">
 
 ---
 
